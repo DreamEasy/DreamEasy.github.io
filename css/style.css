@@ -27,8 +27,8 @@ body {
   font-weight: 300;
   font-size: 20px;
   line-height: 1.7;
-  color:black;
-  background: transparent;
+  color:gray;
+  background: #e8e8e8;
 }
 
 #page {
