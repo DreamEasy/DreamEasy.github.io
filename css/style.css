@@ -25,7 +25,7 @@
 body {
   font-family: "Oxygen", sans-serif;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.7;
   color: gray;
   background: #e8e8e8;
@@ -1214,11 +1214,11 @@ input[type="text"] {
 }
 
 #fh5co-offcanvas a {
-  color: rgba(255, 255, 255, 0.5);
+  color:#fcf8e3;
 }
 
 #fh5co-offcanvas a:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: #fcf8e3;
 }
 
 #fh5co-offcanvas ul {
