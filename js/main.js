@@ -222,7 +222,13 @@
 	  	$('#fh5co-hero .flexslider').flexslider({
 			animation: "fade",
 			slideshowSpeed: 5000,
-			directionNav: true,
+			_directionNav: true,
+			get directionNav() {
+				return this._directionNav;
+			},
+			set directionNav(value) {
+				this._directionNav = value;
+			},
 			start: function(){
 				setTimeout(function(){
 					$('.slider-text').removeClass('animated fadeInUp');
