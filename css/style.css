@@ -1324,7 +1324,7 @@ input[type="text"] {
 
 .fh5co-nav-toggle.active i::before,
 .fh5co-nav-toggle.active i::after {
-  background: #444;
+  background: white;
 }
 
 .fh5co-nav-toggle:hover,
@@ -1487,9 +1487,9 @@ input[type="text"] {
 }
 
 .btn-success {
-  background: #5cb85c;
+  background: #489ae6;
   color: #fff;
-  border: 2px solid #5cb85c;
+  border: 2px solid #489ae6;
 }
 
 .btn-success:hover,
@@ -1501,14 +1501,14 @@ input[type="text"] {
 
 .btn-success.btn-outline {
   background: transparent;
-  color: #5cb85c;
-  border: 2px solid #5cb85c;
+  color: #489ae6;
+  border: 2px solid #489ae6;
 }
 
 .btn-success.btn-outline:hover,
 .btn-success.btn-outline:focus,
 .btn-success.btn-outline:active {
-  background: #5cb85c;
+  background: #489ae6;
   color: #fff;
 }
 
